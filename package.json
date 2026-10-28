@@ -1,0 +1,8 @@
+{
+  "name": "parshwashah-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Parshwa Jinesh Shah - Full-Stack & RHCSA Certified Red Hat Linux Specialist",
+  "scripts": {
+    "deploy": "npx vercel --prod"
+  }
+}
